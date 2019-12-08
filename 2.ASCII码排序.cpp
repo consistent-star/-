@@ -1,4 +1,4 @@
-#include "stdio.h"//×îÓÅ³ÌĞò
+#include <stdio.h>
 main()
 {
 	char a,b,c,d;
